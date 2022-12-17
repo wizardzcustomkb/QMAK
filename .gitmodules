@@ -4,3 +4,9 @@
 [submodule "QMK 100 FRL/random-keyboard-parts.pretty"]
 	path = QMK 100 FRL/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "QMK 100 FRL/AcheronSetup"]
+	path = QMK 100 FRL/AcheronSetup
+	url = https://github.com/AcheronProject/AcheronSetup.git
+[submodule "QMK 100 FRL/AlexandriaLibrary"]
+	path = QMK 100 FRL/AlexandriaLibrary
+	url = https://github.com/AcheronProject/AlexandriaLibrary.git
