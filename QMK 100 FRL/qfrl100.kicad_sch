@@ -2451,7 +2451,7 @@
       (reference "MX_END1") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/c2842348-d546-4915-a455-81c47eeb681c"
-      (reference "MX_ENTR1") (unit 1) (value "MX-2.25U") (footprint "MX_Alps_Hybrid:MX-2.5U-ReversedStabilizers")
+      (reference "MX_ENTR1") (unit 1) (value "MX-2.25U") (footprint "MX_Alps_Hybrid:MX-2.25U-ReversedStabilizers")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/921c349a-ffcd-45a7-bfd0-bc6d7208ecdd"
       (reference "MX_ENTR2") (unit 1) (value "MX-ISO") (footprint "MX_Alps_Hybrid:MX-ISO-FLIPPED-ReversedStabilizers")
@@ -2511,10 +2511,10 @@
       (reference "MX_LSHIFT3") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/f176471c-0b52-4f82-b798-32b1863e9199"
-      (reference "MX_LWIN1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1U")
+      (reference "MX_LWIN1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/04a4adee-1e6d-4833-a3b7-e94560462162"
-      (reference "MX_LWIN7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.5U")
+      (reference "MX_LWIN7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/5537de9f-c5ad-4dd3-aba6-0f0f833c5d08"
       (reference "MX_M1") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
@@ -2640,7 +2640,7 @@
       (reference "MX_RWIN1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/48d07c1a-ec41-46d2-90dd-04dc88ceeb97"
-      (reference "MX_RWIN7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.5U")
+      (reference "MX_RWIN7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/655d7093-332a-4cd3-894d-f6d1416655ec"
       (reference "MX_S1") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
