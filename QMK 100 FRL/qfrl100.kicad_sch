@@ -2487,13 +2487,13 @@
       (reference "MX_L1") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/f9136633-406a-4593-afde-522f2e78e4c3"
-      (reference "MX_LALT1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
+      (reference "MX_LALT1") (unit 1) (value "MX-1.25U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/f177fc5b-d964-4ea5-9f4a-c56ac26fc782"
       (reference "MX_LALT7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.5U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/fabae21c-0bf5-41e1-92c8-b0440c8cdf3c"
-      (reference "MX_LCTRL1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
+      (reference "MX_LCTRL1") (unit 1) (value "MX-1.25U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/468a9e60-e8e5-4157-9f27-c32f94eb188a"
       (reference "MX_LCTRL7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.5U")
@@ -2511,7 +2511,7 @@
       (reference "MX_LSHIFT3") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/f176471c-0b52-4f82-b798-32b1863e9199"
-      (reference "MX_LWIN1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
+      (reference "MX_LWIN1") (unit 1) (value "MX-1.25U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/04a4adee-1e6d-4833-a3b7-e94560462162"
       (reference "MX_LWIN7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1U")
@@ -2610,19 +2610,19 @@
       (reference "MX_R1") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/deeb827a-423f-487f-9b70-327e048253e6"
-      (reference "MX_RALT1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
+      (reference "MX_RALT1") (unit 1) (value "MX-1.25U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/6ef337f9-ee7d-4c31-82d0-26884bd7720a"
       (reference "MX_RALT7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.5U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/b5d0dd80-6b9b-48cb-b1b0-c3e94b6ad9d8"
-      (reference "MX_RCTRL1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
+      (reference "MX_RCTRL1") (unit 1) (value "MX-1.25U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/beddd359-ef38-49d2-91d5-2ea4a6daa07a"
       (reference "MX_RCTRL7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.5U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/59512642-acb0-4ca6-9710-05827a632095"
-      (reference "MX_RFn1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
+      (reference "MX_RFn1") (unit 1) (value "MX-1.25U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/982a736e-0985-43dd-b798-5aa3f9b876b7"
       (reference "MX_RSHIFT1") (unit 1) (value "MX-2.75U") (footprint "MX_Alps_Hybrid:MX-2.75U")
@@ -2637,7 +2637,7 @@
       (reference "MX_RT1") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/c1d3b1ea-a60f-46ac-bb71-6d316ad6916c"
-      (reference "MX_RWIN1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1.25U")
+      (reference "MX_RWIN1") (unit 1) (value "MX-1.25U") (footprint "MX_Alps_Hybrid:MX-1.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/48d07c1a-ec41-46d2-90dd-04dc88ceeb97"
       (reference "MX_RWIN7U1") (unit 1) (value "MX-1.5U") (footprint "MX_Alps_Hybrid:MX-1U")
@@ -2646,7 +2646,7 @@
       (reference "MX_S1") (unit 1) (value "MX-1U") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/f84a7c0f-0cf6-4a13-b070-acd479c45876"
-      (reference "MX_SP6.25U1") (unit 1) (value "MX-10U") (footprint "MX_Alps_Hybrid:MX-6.25U")
+      (reference "MX_SP6.25U1") (unit 1) (value "MX-6.25U") (footprint "MX_Alps_Hybrid:MX-6.25U")
     )
     (path "/34a59791-8145-44d2-b18f-395cc0ea175e/92ee791b-b336-4c54-8d26-d4e84ea1ab5f"
       (reference "MX_SP7U1") (unit 1) (value "MX-7U") (footprint "MX_Alps_Hybrid:MX-7U")
